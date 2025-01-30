@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Pimlotb
 - 👀 I’m interested in Cloud Automation
 - 🌱 I’m currently learning NAPALM
-- 💞️ I’m looking to collaborate on Network Automation
 - 📫 How to reach me linkedin - www.linkedin.com/in/pimlotb
 
 <!---
